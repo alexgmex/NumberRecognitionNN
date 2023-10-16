@@ -1,10 +1,10 @@
 # Number Recognition Neural Network
 
-GUI-Enabled Neural Network for the MNIST database using Numpy and Pygame.
-
-To run, simply run NumberRecognitionNN.py
+GUI-Enabled Neural Network for the MNIST database using Numpy, Pandas and Pygame, which trains and then tests itself on recognising handwritten numbers.
 
 Work in progress. Made for learning AI!
+
+To run, simply run NumberRecognitionNN.py
 
 Requirements:
 *pip install pandas numpy pygame*
