@@ -1,4 +1,4 @@
-# Number Recognition Neural Network
+# Number Recognition Neural Network (VERSION 1)
 
 GUI-Enabled Neural Network for the MNIST database using Numpy, Pandas and Pygame, which trains and then tests itself on recognising handwritten numbers.
 
